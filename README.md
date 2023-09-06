@@ -32,7 +32,7 @@ bash
 Copy code
 git clone https://github.com/yourusername/stock-analysis-chatbot.git
 cd stock-analysis-chatbot
-Set up your OpenAI API key by replacing "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" in the script with your own API key.
+Set up your OpenAI API key by replacing the script with your own API key.
 
 Run the application:
 
