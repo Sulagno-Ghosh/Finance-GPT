@@ -9,7 +9,7 @@ import uuid
 
 
 
-openai.api_key = "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"
+openai.api_key = ""
 
 def get_stock_price(ticker):
     return str(yf.Ticker(ticker).history(period = "1y").iloc[-1].Close)
